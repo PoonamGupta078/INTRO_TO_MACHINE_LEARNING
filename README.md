@@ -1,8 +1,5 @@
-# Introduction to Machine Learning — Assignment Portfolio
+# Introduction to Machine Learning 
 
-**Student:** Poonam Gupta | Roll No. 240751
-**Institution:** K J Somaiya School of Engineering
-**Course:** Introduction to Machine Learning
 
 ---
 
